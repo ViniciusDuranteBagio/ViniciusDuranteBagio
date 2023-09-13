@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=header"/>
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=test+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=07F738&background=FF042400&width=435&lines=Hello%2C+my+name+is+Vinicius+Durante+Bagio)](https://git.io/typing-svg)
 
 ### Hi, my name is Vinicius Durante Bagio 👋
 
