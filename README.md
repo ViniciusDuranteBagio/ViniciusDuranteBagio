@@ -1,6 +1,5 @@
 ### Hi, my name is Vinicius Durante Bagio 👋
 
-<!--
 **ViniciusDuranteBagio/ViniciusDuranteBagio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -53,5 +51,3 @@ Here are some ideas to get you started:
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
--->
