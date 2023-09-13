@@ -2,6 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=07F738&background=FF042400&width=900&lines=Hello%2C+my+name+is+Vinicius+Durante+Bagio)](https://git.io/typing-svg)
 
+<ul dir="auto">
+<li>🌍  I'm based in Brazil</li>
+<li>✉️  You can contact me at <a href="mailto:viniciusduranteb@gmail.com">viniciusduranteb@gmail.com</a></li>
+<li>🚀  I'm currently working on Climba Commerce</a></li>
+<li>🧠  I'm learning Game Development</li>
+<li>🤝  I'm open to collaborating on GameDev Projects</li>
+</ul>
+
 <div  align="center"> 
     <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusDuranteBagio&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=7CFC00&icon_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" alt="Vinicius Durante Bagio Github Stats"/>
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDuranteBagio&layout=compact&hide_border=true&title_color=7CFC00&icon_color=7CFC00&bg_color=0d1117&text_color=C0C0C0"/>
