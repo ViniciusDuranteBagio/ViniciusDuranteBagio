@@ -8,6 +8,7 @@
 <li>🚀  I'm currently working on Climba Commerce</a></li>
 <li>🧠  I'm learning Game Development</li>
 <li>🤝  I'm open to collaborating on GameDev Projects</li>
+<li> <a href="https://github.com/ViniciusDuranteBagio/Vinicius/blob/main/README.md">Professional Resume</a> </li>
 </ul>
 
 <div  align="center"> 
