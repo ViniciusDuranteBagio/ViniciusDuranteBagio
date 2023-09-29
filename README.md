@@ -21,11 +21,11 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    <img align="center" height="30" width="40" alt="css-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   </div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,unity,docker,php,html,css,js,angular,bootstrap,mysql,laravel" />
+    </a>
+</div>
+
     
   
   <h1 align="center">Redes Sociais</h1>
