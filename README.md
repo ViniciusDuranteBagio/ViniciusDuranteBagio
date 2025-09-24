@@ -5,7 +5,7 @@
 <ul dir="auto">
 <li>🌍  I'm based in Brazil</li>
 <li>✉️  You can contact me at <a href="mailto:viniciusduranteb@gmail.com">viniciusduranteb@gmail.com</a></li>
-<li>🚀  I'm currently working on Climba Commerce</a></li>
+<li>🚀  I'm currently working on KraftWorks</a></li>
 <li>🧠  I'm learning Game Development</li>
 <li>🤝  I'm open to collaborating on GameDev Projects</li>
 <li> <a href="https://github.com/ViniciusDuranteBagio/Vinicius/blob/main/README.md">Professional Resume</a> </li>
